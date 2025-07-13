@@ -67,11 +67,12 @@ header h1 {
         font-size: 1rem;
          height: 70px;
         padding: 5px;
-        margin: auto;
+        margin-bottom: 20px;
     }
     
     .genre {
         padding-left: 10px;
+        margin-top: 90px;
     }
     
     .container {
