@@ -13,6 +13,7 @@ header {
 
 header h1 {
     text-transform: uppercase;
+    text-decoration: underline;
 }
 
 
@@ -90,7 +91,7 @@ header h1 {
         overflow: hidden;
     }
     .block {
-         padding: 5px 0;
+         padding: 0px 10% ;
          flex-wrap: wrap ;
     }
     
